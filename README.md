@@ -33,3 +33,4 @@ heroku logs --tail --app {heroku_app_name}
 - [LINE Developer](https://developers.line.biz/en/)
 - [LINE BOT SDK PYTHON](https://github.com/line/line-bot-sdk-python)
 - [使用 Heroku 建立範例聊天機器人](https://developers.line.biz/zh-hant/docs/messaging-api/building-sample-bot-with-heroku/#%E9%83%A8%E7%BD%B2-kitchensink-%E7%AF%84%E4%BE%8B%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-app)
+- [如何建立 LINE Bot 的圖文選單 - Rich Menu](https://ithelp.ithome.com.tw/articles/10229397)
