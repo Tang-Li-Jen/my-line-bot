@@ -5,7 +5,7 @@
 - Login
 ```
 cd my-line-bot
-heroku login
+heroku login -i
 ```
 
 - Git2Heroku
